@@ -8,6 +8,7 @@
 
 - Review document spec to determine what needs to be on the page
 - Use figma to create a wireframe of the finished project
+- If you're struggling with Figma, just draw your wireframe
 
 ### Tuesday
 
